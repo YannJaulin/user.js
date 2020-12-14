@@ -2,7 +2,7 @@
 
 /*
 
-Un fichier de configuration pour Mozilla Firefox créé par Yann Jaulin pour PMSInternet.
+Un fichier de configuration pour Mozilla Firefox, proposé par Protège-moi sur Internet !
 
 Ce fichier est basé sur les paramètres de PrivacyTools qui vise à améliorer la vie privée et la confidentialité sur Internet.
 
