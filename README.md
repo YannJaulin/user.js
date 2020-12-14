@@ -7,7 +7,7 @@
 </p>
 </div>
 
-Ce user.js est un fichier de configuration pour **[Mozilla Firefox](https://www.mozilla.org/fr/firefox/)** qui réside dans le répertoire racine d'un profil. Il est utilisé pour définir les paramètres de ce dernier au démarrage.
+C'est un fichier de configuration pour **[Mozilla Firefox](https://www.mozilla.org/fr/firefox/)** qui réside dans le répertoire racine d'un profil. Il est utilisé pour définir les paramètres de ce dernier au démarrage.
 
 Je l'ai créé afin de rendre plus accessible la configuration de Firefox et d'appliquer des paramètres de manière automatique.
 
@@ -15,13 +15,13 @@ Ce fichier est basé sur les paramètres de **[PrivacyTools](https://privacytool
 
 # Comment l'utiliser
 
-**Le profil actuel va être supprimé, n'oubliez pas de sauvegarder vos données importantes, telles que les marque-pages, mots de passe, etc.**
+**Le profil actuel va être supprimé, n'oubliez pas de sauvegarder vos données, telles que les marque-pages, mots de passe, etc.**
 
 1. Ouvrez Firefox et tapez **about:profiles** dans la barre d'adresse.
 2. Une fois sur la page, cliquez sur **Créer un nouveau profil**.
-3. Dès que le nouveau profil est créé, cliquez sur **Ouvrir le répertoire** dans **Répertoire racine** dans le nouveau profil.
+3. Dès que le nouveau profil est créé, cliquez sur **Ouvrir le répertoire** dans **Répertoire racine** du nouveau profil.
 4. Déplacez le fichier **user.js** dans ce répertoire et cliquez sur **Lancer le profil dans un nouveau navigateur**.
-5. Fermez l'ancien navigateur et le répertoire, tapez **about:profiles** dans le nouveau navigateur et une fois sur la page, cliquez sur **Supprimer** dans l'ancien profil.
+5. Fermez l'ancien navigateur et le répertoire, tapez **about:profiles** et une fois sur la page, cliquez sur **Supprimer**.
 
 **Ça y est, votre profil est configuré et vous êtes mieux protégé sur Internet !**
 
