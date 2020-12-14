@@ -15,7 +15,7 @@ Ce fichier est basé sur les paramètres de **[PrivacyTools](https://privacytool
 
 # Comment l'utiliser
 
-**/!\ Le profil actuel va être supprimé, n'oubliez pas de sauvegarder vos données importantes, telles que les marque-pages, mots de passe, etc. /!\**
+**Le profil actuel va être supprimé, n'oubliez pas de sauvegarder vos données importantes, telles que les marque-pages, mots de passe, etc.**
 
 1. Ouvrez Firefox et tapez **about:profiles** dans la barre d'adresse.
 2. Une fois sur la page, cliquez sur **Créer un nouveau profil**.
